@@ -1,3 +1,3 @@
 # Black-Scholes
 
-we impelement black scholes merton model 
+we impelement black scholes merton model (*^.^*)
